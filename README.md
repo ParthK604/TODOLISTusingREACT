@@ -19,9 +19,9 @@ Easily add, edit, delete, and mark tasks as completed — all stored in your bro
 
 ## 📸 Screenshots
 
-(./sstodo1.png)
-(./sstodo2.png)
-(./sstodo3.png)
+![Todo app screenshot](./sstodo1.png)
+![finished screenshot](./sstodo2.png)
+![removing screenshot](./sstodo3.png)
 
 ---
 
