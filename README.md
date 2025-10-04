@@ -19,9 +19,9 @@ Easily add, edit, delete, and mark tasks as completed — all stored in your bro
 
 ## 📸 Screenshots
 
-(./ss1todo.png)
-(./ss2todo.png)
-(./ss3todo.png)
+(./sstodo1.png)
+(./sstodo2.png)
+(./sstodo3.png)
 
 ---
 
@@ -61,6 +61,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify.
 
 ## 👤 Author
 
+GitHub: [@parthkamath](https://github.com/ParthK604)
 **Parth Kamath**
-https://github.com/ParthK604
+
 📧 Feel free to reach out for suggestions or collaborations!
