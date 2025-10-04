@@ -19,9 +19,9 @@ Easily add, edit, delete, and mark tasks as completed — all stored in your bro
 
 ## 📸 Screenshots
 
-[ss1todo.png]
-[ss2todo.png]
-[ss3todo.png]
+(./ss1todo.png)
+(./ss2todo.png)
+(./ss3todo.png)
 
 ---
 
